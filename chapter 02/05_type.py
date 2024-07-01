@@ -1,5 +1,5 @@
-a = 31 
-t = type(a) 
+b = 31 
+t = type(b) 
 print(t)
 
 b = "zaid"
