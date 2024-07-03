@@ -21,3 +21,8 @@ print(my_list)
 
 my_list.pop(3)
 print(my_list)
+
+my_list = [1, "zsif", 2, 3]
+count = my_list.count(2)
+print(count)
+# count is 2
