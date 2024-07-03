@@ -19,11 +19,11 @@ else:
 # elif( prg_marks <= 66):
 #     print("excellent")
 
-# if(prg_marks >= 33):
-#     print("PASS")
-# elif(prg_marks > 44):
-#     print("Good")
-# elif(prg_marks <= 33):
-#     print("Failed")
-# else:
-#     print("enter valid nubmer")
+if(prg_marks >= 33):
+    print("PASS")
+elif(prg_marks > 44):
+    print("Good")
+elif(prg_marks <= 33):
+    print("Failed")
+else:
+    print("enter valid nubmer")
