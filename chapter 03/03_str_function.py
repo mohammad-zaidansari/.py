@@ -29,3 +29,7 @@ name4 = "   muhammad zaid!" #removing all spaces and symbol from the string
 strip_list = name4.strip("!")
 strip_list = strip_list.strip()
 print(strip_list)   # muhammad zaid
+
+
+name = "zaid"
+print(name.startswith("z")) # this method return value Ture and False
