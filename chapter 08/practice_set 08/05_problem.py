@@ -3,14 +3,14 @@
 # ***
 # ***** for n = 3
 
-# def pattern(n):
-#     if(n==0):
-#         return
-#     print("*" *n)
-#     pattern(n-1)
+def pattern(n):
+    if(n==0):
+        return
+    print("*" *n)
+    pattern(n-1)
 
-# a = int(input("Enter a number: "))
-# pattern(a)
+a = int(input("Enter a number: "))
+pattern(a)
 
 n = 3 
 for i in range(n, 0, -1):
