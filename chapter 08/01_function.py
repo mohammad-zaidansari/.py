@@ -16,9 +16,9 @@
 
 # Quick Quiz: Write a program to greet a user with “Good day” using functions.
 
-def fun1():
-    print("Good Day")
+# def fun1():
+#     print("Good Day")
 
-name = input("Enter your name: ")
-print(f"{name} ", end="")
-fun1()
+# name = input("Enter your name: ")
+# print(f"{name} ", end="")
+# fun1()
