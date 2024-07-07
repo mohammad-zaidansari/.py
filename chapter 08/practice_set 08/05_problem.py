@@ -12,9 +12,9 @@ def pattern(n):
 a = int(input("Enter a number: "))
 pattern(a)
 
-n = 3 
-for i in range(n, 0, -1):
-    print("*"* i)
+# n = 3 
+# for i in range(n, 0, -1):
+#     print("*"* i)
 
 
 '''
