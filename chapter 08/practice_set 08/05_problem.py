@@ -4,7 +4,7 @@
 # ***** for n = 3
 
 def pattern(n):
-    if(n==0):
+    if(n==0):    # this is a base condition
         return
     print("*" *n)
     pattern(n-1)
