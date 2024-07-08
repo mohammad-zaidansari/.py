@@ -15,7 +15,7 @@ def game():
 
     print(f"Your score: {score}")
     if(score>hiscore):
-        write this hiscore to the file
+        # write this hiscore to the file
         with open("hiscore.txt", "w") as f:
             f.write(str(score))
 
